@@ -1,2 +1,2 @@
-# ios-Calculor-App
+# ios-Calculator-App
 My first ios app 
